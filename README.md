@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Docker + Cloud (AWS)**
 
-- 📫 How to reach me **twgkartik@gmail.com**
+- 📫 How to reach me **kartikmalik71004@gmail.com**
 
 - ⚡ Fun fact **I built a model that can recognize species faster than I can remember my own grocery list.**
 
