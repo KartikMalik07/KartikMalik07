@@ -1,110 +1,110 @@
 <h1 align="center">Hi 👋, I'm Kartik Malik</h1>
-<h3 align="center">A passionate Frontend Developer and Machine Learning Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KartikMalik07&label=Profile%20views&color=0e75b6&style=flat" alt="KartikMalik07" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KartikMalik07" alt="KartikMalik07" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=600&lines=FRONTEND+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST;DEVOPS+EXPLORER" alt="Typing SVG" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **React + FastAPI + Kubernetes + ML Projects**
-
-- 🌱 I’m currently learning **Linux, C, Frameworks**
-
-- 👯 I’m looking to collaborate on **Docker + Cloud (AWS)**
-
-- 📫 How to reach me: **kartikmalik71004@gmail.com**
-
-- ⚡ Fun fact: **I built a model that can recognize species faster than I can remember my own grocery list.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kartik-malik-a69391284/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-malik" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikMalik07&label=Profile+Views&color=1A73E8&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 *Currently Working On:* React + FastAPI + Kubernetes + ML projects  
+- 🌱 *Learning:* Linux, C, Cloud, Frameworks  
+- 🤝 *Looking to Collaborate On:* Docker, Cloud (AWS), AI-powered apps  
+- 📬 *Reach Me At:* [kartikmalik71004@gmail.com](mailto:kartikmalik71004@gmail.com)  
+- 💬 *Ask Me About:* Full-stack development, ML, or OpenCV basics  
+- ⚡ *Fun Fact:* I built a species recognition model that works faster than I can finish my grocery list  
+
+---
+
+### 🌐 Connect with Me
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikMalik07&show_icons=true&locale=en&layout=compact" alt="KartikMalik07" />
+  <a href="https://www.linkedin.com/in/kartik-malik-a69391284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikMalik07&" alt="KartikMalik07" />
+---
+
+### 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" />
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" />
+  <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/linux.png" title="Linux" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/opencv.png" title="OpenCV" />
+  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" />
+  <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/redis.png" title="Redis" />
+  <img src="https://img.icons8.com/color/48/rabbitmq.png" title="RabbitMQ" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| *Species Recognition* | Automated endangered species detection | Python, CNN, TensorFlow, OpenCV |
+| *Healthcare Chatbot* | HealthMate – rural healthcare assistant | Node.js, Firebase, Vision AI |
+| *Inventory System* | Microservices-based bakery order system | FastAPI, RabbitMQ, Redis, React |
+
+> ⭐ More projects on my repos and portfolio soon...
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikMalik07&theme=tokyonight&row=1&no-bg=true" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikMalik07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikMalik07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⏳ Recent Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikMalik07&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Strengthen DSA + Java for placements  
+- 🎓 Earn Kubernetes & AWS certifications  
+- 🛠 Expand my portfolio with real-world ML apps  
+- 🤝 Collaborate on open-source projects  
+
+---
+
+<p align="center">
+  Made with ❤ by <b>Kartik Malik</b>
 </p>
