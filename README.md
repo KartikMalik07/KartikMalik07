@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=600&lines=FRONTEND+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST;DEVOPS+EXPLORER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST;DEVOPS+EXPLORER;ALWAYS+BUILDING+ALWAYS+LEARNING" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 *Currently Working On:* React + FastAPI + Kubernetes + ML projects  
-- 🌱 *Learning:* Linux, C, Cloud, Frameworks  
+- 🌱 *Learning Every Day:* Linux, C, Cloud, new frameworks  
 - 🤝 *Looking to Collaborate On:* Docker, Cloud (AWS), AI-powered apps  
 - 📬 *Reach Me At:* [kartikmalik71004@gmail.com](mailto:kartikmalik71004@gmail.com)  
 - 💬 *Ask Me About:* Full-stack development, ML, or OpenCV basics  
@@ -102,6 +102,7 @@
 - 🎓 Earn Kubernetes & AWS certifications  
 - 🛠 Expand my portfolio with real-world ML apps  
 - 🤝 Collaborate on open-source projects  
+- 🌱 Keep a *curious mind* and stay a *constant learner*  
 
 ---
 
